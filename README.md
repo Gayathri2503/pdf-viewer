@@ -2,6 +2,7 @@
 
 **Program**
 
+<!DOCTYPE html> 
 <html> 
   
 <head> 
