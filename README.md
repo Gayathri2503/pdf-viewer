@@ -3,8 +3,7 @@
 **Program**
 
 <!DOCTYPE html> 
-<html> 
-  
+<html>   
 <head> 
       <title>JavaScript Calculator</title> 
     <script src= 
@@ -143,8 +142,7 @@
         } 
     </script> 
 </body> 
-  
-</html>
+  </html>
 
 **Output**
 
