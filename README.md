@@ -143,7 +143,7 @@
     </script> 
 </body> 
   </html>
-
+  
 **Output**
 
 ![output](https://github.com/Gayathri2503/pdf-viewer/assets/156527202/4a974735-68f5-4569-867d-dc2f37970567)
